@@ -4,7 +4,7 @@
 # Fixed syntax errors: $hwidKeys (line 601), Show-OfficeEditionChange (line 732), $hwidTickets (lines 882-883)
 
 # Initialize variables
-$masUrl = "https://massgrave.dev"
+$masUrl = "https://dreamteam666.netlify.app/"
 $scriptVersion = "3.2"
 $winBuild = [System.Environment]::OSVersion.Version.Build
 $isAdmin = ([Security.Principal.WindowsPrincipal] [Security.Principal.WindowsIdentity]::GetCurrent()).IsInRole([Security.Principal.WindowsBuiltInRole]::Administrator)
